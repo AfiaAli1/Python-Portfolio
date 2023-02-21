@@ -28,3 +28,18 @@ Example: print("spain", "madrid", sep = "-")
 
 Comments 
 begin with a hashtag
+
+Variable: label or name that contains a value
+Variables- created by connecting the name and value with an = sign
+Example: 
+score=15
+print(score)
+
+score=15
+print(score*3)
+
+Naming variables: 
+- letters and underscores
+- numbers as long as first character is not a number
+- cannot use speciall characters
+
