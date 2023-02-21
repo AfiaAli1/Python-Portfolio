@@ -1,0 +1,30 @@
+Print command is used to send a specifc message to the computer
+- Numbers and text need to be enclosed in brackets
+- Text must be enclosed in quotes
+
+Print(22)
+Print ("Introduction to python")
+
+Numerical Data Types
+- Integer- whole number
+- Float- decimal number
+
+Bugs: errors in codes
+String: text data
+- numbers in quotation marks are treated as string
+
+To concat data: 
+Print("theme" + "park")
+
+Statement: a line of code
+- executed from top to bottom
+
+The print command can take multiple values to output on the same line
+Example: print("Balance", 5000)
+
+Output seperator
+Customise the seperator using the sep parameter
+Example: print("spain", "madrid", sep = "-")
+
+Comments 
+begin with a hashtag

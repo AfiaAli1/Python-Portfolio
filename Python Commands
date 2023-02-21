@@ -1,6 +1,0 @@
-Print command is used to send a specifc message to the computer
-- Numbers and text need to be enclosed in brackets
-- Text must be enclosed in quotes
-
-Print(22)
-Print ("Introduction to python")
